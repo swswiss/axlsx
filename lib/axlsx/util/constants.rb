@@ -396,5 +396,5 @@ module Axlsx
   FLOAT_REGEX = /\A[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\Z/.freeze
 
   # Numeric recognition
-  NUMERIC_REGEX = /\A[+-]?\d+?\Z/.freeze
+  NUMERIC_REGEX = /\A[+-]?\d+?\Z/.freeze 
 end
